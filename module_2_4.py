@@ -12,6 +12,6 @@ for i in numbers[1:]:
         primes.append(i)
     else:
         not_primes.append(i)
-print(f'Primes: {primes}\nNot Primes: {not_primes}')
+print(f'Primes: {primes}\n Not Primes: {not_primes}')
 
 
